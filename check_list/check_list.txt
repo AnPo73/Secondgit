@@ -1,0 +1,10 @@
+1) Adding an item to the cart
+2) Removing an item from the cart
+3) Changing the quantity of goods in the cart
+4) When changing the quantity of goods, the total order amount is correctly recalculated
+5) The total amount of purchases is correctly calculated
+6) Ability to add an item to your cart and continue shopping
+7) Ability to return to the cart and order when the browser is closed unexpectedly
+8) Possibility to proceed to payment
+9) Inability to act when cart is empty
+10) There is a return link to the product catalog
